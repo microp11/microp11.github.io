@@ -1,14 +1,14 @@
 {
-    "name": "min_night",
-    "short_name": "min_night",
+    "name": "A sea kayak story",
+    "short_name": "A sea kayak story",
     "icons": [
         {
-            "src": "/static/img/favicon/android-chrome-192x192.png",
-            "sizes": "192x192",
+            "src": "/static/img/favicon/beach-icon-152-167613.png",
+            "sizes": "152x152",
             "type": "image/png"
         },
         {
-            "src": "/static/img/favicon/android-chrome-512x512.png",
+            "src": "/static/img/favicon/beach-icon-512-167613.png",
             "sizes": "512x512",
             "type": "image/png"
         }
