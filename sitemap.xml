@@ -3,21 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://microp11.github.io/</loc>
-    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://microp11.github.io/trip/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://microp11.github.io/trip/leg1/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://microp11.github.io/planning/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://microp11.github.io/tags/provisions/</loc>
-    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://microp11.github.io/tags/</loc>
-    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://microp11.github.io/planning/the-provisions/</loc>
-    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://microp11.github.io/tags/trip-planning/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://microp11.github.io/dry-run/</loc>
@@ -26,30 +23,20 @@
     <loc>https://microp11.github.io/dry-run/log/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://microp11.github.io/tags/equipment/</loc>
-    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://microp11.github.io/planning/the-equipment/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://microp11.github.io/tags/contingencies/</loc>
-    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://microp11.github.io/planning/the-contingencies/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://microp11.github.io/tags/route/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://microp11.github.io/planning/the-route/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://microp11.github.io/tags/goal/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://microp11.github.io/planning/the-goal/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://microp11.github.io/categories/</loc>
+  </url><url>
+    <loc>https://microp11.github.io/tags/</loc>
   </url>
 </urlset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trip on A sea kayak story</title>
+    <link>https://microp11.github.io/trip/</link>
+    <description>Recent content in Trip on A sea kayak story</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://microp11.github.io/trip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trip</title>
+      <link>https://microp11.github.io/trip/leg1/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://microp11.github.io/trip/leg1/</guid>
+      <description>2023: North Rustico to Cap Egmont, 9 days, 200 nautical miles or 370 km.&#xA;2024: Cap Egmont to North Rustico, hopefully 5-6 days at most, weather permitting, roughly 100 nautical miles left.</description>
+    </item>
+  </channel>
+</rss>
